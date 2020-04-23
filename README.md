@@ -83,6 +83,7 @@ First-eth, you'll want `CMake`. There's a few different ways to install it on yo
 
 To make sure it's installed correctly, type `cmake --version` into your flavor of terminal/cmd. If you get a response with a version number, you're good to go!
 
+
 There's a [CMake](https://cmake.org/download/) file that should be able to generate the lib for you; Sometimes I use it like this:
 
 ```sh
